@@ -6,4 +6,5 @@ class QModelPackager:
         self.url = url
 
 x = QModelPackager('Ciao')
+
 print(x.url)
